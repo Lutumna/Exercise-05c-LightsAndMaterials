@@ -4,8 +4,12 @@
 ## Implementation
 
 ## References
+Video
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
+
+## Username
+Lutumna
